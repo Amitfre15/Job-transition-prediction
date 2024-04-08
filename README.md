@@ -3,4 +3,7 @@ Our project has developed a tool to estimate how long employees will stay with a
 
 # Run instructions
 1. Open the notebooks on Databricks platform
-2. Run the project - trials
+2. (Optional) Run the project - preprocessing notebook, in which the dataset is created 
+3. (Optional) Run the project - features analysis notebook, in which the dataset is imputed
+4. Run the project - model notebook, in which baselines and xgboost model are trained
+5. Run the project - NN notebook, in which the FC network is trained 
